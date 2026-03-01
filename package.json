@@ -1,0 +1,33 @@
+{
+  "name": "cc-peak",
+  "version": "1.0.0",
+  "description": "Find your peak Claude Code hours. Hour-of-day heatmap, day-of-week breakdown, and personalized 'best window' recommendation.",
+  "bin": {
+    "cc-peak": "cli.mjs"
+  },
+  "type": "module",
+  "keywords": [
+    "claude-code",
+    "claude",
+    "ai",
+    "productivity",
+    "time-analysis",
+    "peak-hours",
+    "circadian",
+    "developer-metrics"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurukusa/cc-peak.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "cli.mjs",
+    "README.md",
+    "LICENSE"
+  ]
+}
