@@ -49,7 +49,7 @@ Once you know your peak window, you can:
 
 ## Part of cc-toolkit
 
-One of [32 free tools](https://yurukusa.github.io/cc-toolkit/) for understanding your Claude Code usage.
+One of [33 free tools](https://yurukusa.github.io/cc-toolkit/) for understanding your Claude Code usage.
 
 ## License
 
